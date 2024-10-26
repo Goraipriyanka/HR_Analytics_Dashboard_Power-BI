@@ -5,8 +5,13 @@ This project features an HR Analytics Dashboard developed in Power BI to analyze
 Key Metrics
 
 Total Employees: 1470
+
 Attrition Count: 237
+
 Attrition Rate: 16.1%
+
 Average Age: 37
+
 Average Salary: 6.5K
+
 Years at Company: 7.0
